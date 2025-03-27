@@ -14,4 +14,4 @@ A simple **2048** game built with **JavaScript, HTML, and CSS**. Slide and merge
 
 Play & Enjoy! 🚀
 
-- [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+- [DEMO LINK](https://hrebinets.github.io/2048_game/)
